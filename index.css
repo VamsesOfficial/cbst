@@ -304,6 +304,7 @@ body.light {
 .dark .close{
     position: absolute;
     top: 1rem;
+    color: #c4c4c4;
     right: 1rem;
     width: 30px;
     height: 30px;
